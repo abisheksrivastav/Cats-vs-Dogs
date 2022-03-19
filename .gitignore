@@ -132,6 +132,9 @@ dmypy.json
 # input data and models
 data/
 models/
+train_x
+train_y
+
 
 
 # data files
@@ -140,3 +143,5 @@ models/
 *.pkl
 *.pth
 *.jpg
+*.zip
+*.keras
